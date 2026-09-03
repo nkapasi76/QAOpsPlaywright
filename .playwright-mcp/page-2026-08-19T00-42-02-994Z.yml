@@ -1,0 +1,46 @@
+- generic [ref=f1e3]:
+  - banner [ref=f1e4]:
+    - generic [ref=f1e5]:
+      - generic [ref=f1e6]: GREENKART
+      - generic [ref=f1e8]:
+        - searchbox "Search for Vegetables and Fruits" [ref=f1e9]: Carrot
+        - button [ref=f1e10] [cursor=pointer]
+      - generic [ref=f1e11]:
+        - link "Get Shortlisted by Recruiters - Take QA Skill Assessments on TechSmartHire" [ref=f1e12] [cursor=pointer]:
+          - /url: https://techsmarthire.com/
+        - link "Top Deals" [ref=f1e13] [cursor=pointer]:
+          - /url: "#/offers"
+        - link "Flight Booking" [ref=f1e14] [cursor=pointer]:
+          - /url: https://rahulshettyacademy.com/dropdownsPractise/
+        - table [ref=f1e16]:
+          - rowgroup [ref=f1e17]:
+            - row [ref=f1e18]:
+              - cell "Items" [ref=f1e19]
+              - cell ":" [ref=f1e20]
+              - cell [ref=f1e21]:
+                - strong [ref=f1e22]: "0"
+            - row [ref=f1e23]:
+              - cell "Price" [ref=f1e24]
+              - cell ":" [ref=f1e25]
+              - cell [ref=f1e26]:
+                - strong [ref=f1e27]: "0"
+        - link [ref=f1e28] [cursor=pointer]:
+          - /url: "#"
+          - img "Cart" [ref=f1e29]
+  - generic [ref=f1e76]:
+    - img "Carrot - 1 Kg" [ref=f1e78]
+    - heading "Carrot - 1 Kg" [level=4] [ref=f1e79]
+    - paragraph [ref=f1e80]: ₹ 56
+    - generic [ref=f1e81]:
+      - link "–" [ref=f1e82] [cursor=pointer]:
+        - /url: "#"
+      - spinbutton [ref=f1e83]: "2"
+      - link "+" [active] [ref=f1e84] [cursor=pointer]:
+        - /url: "#"
+    - button "ADD TO CART" [ref=f1e86] [cursor=pointer]
+  - contentinfo [ref=f1e362]:
+    - paragraph [ref=f1e363]:
+      - text: © 2019
+      - strong [ref=f1e364]: GreenKart
+      - text: "- buy veg and fruits online"
+  - text: ₹ ₹

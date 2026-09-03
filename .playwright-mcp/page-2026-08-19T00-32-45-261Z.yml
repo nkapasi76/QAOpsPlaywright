@@ -1,0 +1,37 @@
+- generic [ref=e384]:
+  - banner [ref=e385]:
+    - generic [ref=e386]:
+      - generic [ref=e387]: GREENKART
+      - link "Get Shortlisted by Recruiters - Take QA Skill Assessments on TechSmartHire" [ref=e388] [cursor=pointer]:
+        - /url: https://techsmarthire.com/
+      - link "Get Shortlisted by Recruiters - Take QA Skill Assessments on TechSmartHire" [ref=e389] [cursor=pointer]:
+        - /url: https://techsmarthire.com/
+  - generic [ref=e391]:
+    - table [ref=e392]:
+      - rowgroup [ref=e393]:
+        - row [ref=e394]:
+          - cell "#" [ref=e395]
+          - cell "Product Name" [ref=e396]
+          - cell "Quantiry" [ref=e397]
+          - cell "Price" [ref=e398]
+          - cell "Total" [ref=e399]
+      - rowgroup [ref=e400]:
+        - row [ref=e401]:
+          - cell [ref=e402]
+          - cell [ref=e404]:
+            - paragraph [ref=e405]: Carrot - 1 Kg
+          - cell [ref=e406]:
+            - paragraph [ref=e407]: "2"
+          - cell [ref=e408]:
+            - paragraph [ref=e409]: "56"
+          - cell [ref=e410]:
+            - paragraph [ref=e411]: "112"
+    - generic [ref=e412]:
+      - generic [ref=e413]:
+        - textbox "Enter promo code" [ref=e414]: INVALID
+        - button "Apply" [active] [ref=e415] [cursor=pointer]
+        - text: Invalid code ..!
+      - text: "No. of Items : 1 Total Amount :"
+      - generic [ref=e416]: "112"
+      - text: "Discount : 0%Total After Discount : 112"
+      - button "Place Order" [ref=e417] [cursor=pointer]
